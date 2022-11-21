@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1193],{8938:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/teleport-sdk-docs/blog/tags/facebook","allTagsPath":"/teleport-sdk-docs/blog/tags","count":1}')}}]);
